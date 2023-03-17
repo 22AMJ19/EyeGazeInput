@@ -23,7 +23,7 @@ from keras.utils import plot_model
 
 # 変数設定
 data_dir = './data/blink/'
-num_classes = 5
+num_classes = 2
 train_dirs = ['open', 'close']
 test_dirs = ['openT', 'closeT']
 
